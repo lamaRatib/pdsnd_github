@@ -7,8 +7,7 @@ September 2, 2023
 Bikeshare System
 
 ### Description
-In this project, it explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. It answers interesting questions about it by computing descriptive statistics. And there is Raw data which displayed upon request by the user.
-
+In this project, it explore data related to **bike share systems** for three major cities in the United States—Chicago, New York City, and Washington. It answers interesting questions about it by computing descriptive statistics. And there is Raw data which displayed upon request by the user.
 
 ### Files used
 - 'bikeshare.py': Contains the main code.
