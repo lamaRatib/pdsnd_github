@@ -26,4 +26,4 @@ This project makes use of bike share data from the following sources:
 - **Bug 1:** Description of the first known bug.
 - **Bug 2:** Description of the second known bug.
 
-
+If you encounter any issues or bugs not listed here, please feel free to report them in the [Issues](https://github.com/your-username/your-repo/issues) section of this repository. We appreciate your feedback and contributions to improving this project!
