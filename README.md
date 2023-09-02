@@ -20,3 +20,10 @@ This project makes use of bike share data from the following sources:
 - [City of Chicago Bike Share](https://www.examplechicagobikeshare.com): Data provided by the City of Chicago's bike share program.
 - [NYC Bike Share](https://www.examplenycbikeshare.com): Data courtesy of NYC's bike share system.
 - [Washington Bike Share](https://www.examplewashingtonbikeshare.com): Data obtained from the Washington D.C. bike share program.
+
+### Known Bugs
+
+- **Bug 1:** Description of the first known bug.
+- **Bug 2:** Description of the second known bug.
+
+
